@@ -1,0 +1,8 @@
+server:
+  port: 8080
+
+push:
+  vapid:
+    publicKey: "BPblscWtfIcjakPrRsHINaRYA6mIdNlIXJATdiDoZ-VO8G_T7kwOCXdsgopfJgg82rPiJfltwa--_6Q2SdmGziE"
+    privateKey: "WS7QZZJJJs9GbSAAtQ3TBkjqgBKla93LfYqrWuOoYig"
+    subject: mailto:dev@example.com
