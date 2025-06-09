@@ -3,6 +3,6 @@ server:
 
 push:
   vapid:
-    publicKey: "BPblscWtfIcjakPrRsHINaRYA6mIdNlIXJATdiDoZ-VO8G_T7kwOCXdsgopfJgg82rPiJfltwa--_6Q2SdmGziE"
-    privateKey: "WS7QZZJJJs9GbSAAtQ3TBkjqgBKla93LfYqrWuOoYig"
+    publicKey: "BPblscWtfIcjakPrRsHINaRYA6mIdNlIXJATdiDoZ-VO8G_T7kwOCXdsgomGziE"
+    privateKey: "WS7QZZJJJs9GbSAAtQ3a93LfYqrWuOoYig"
     subject: mailto:dev@example.com
